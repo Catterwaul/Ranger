@@ -8,4 +8,5 @@ You've got the source code, so aside from reading this documentation, see the **
 
 ## Topics
 
+- ``RangeProtocol``
 - ``Swift/Comparable``
